@@ -1,0 +1,5 @@
+The required Python libraries are: Pandas, Plotly, Matplotlib and Openpyxl. It can be installed using “pip install -r requirements.txt” code, but I already included them in codes of .ipynb file that can be found in zip file under name “fifa_visualisations.ipynb”. 
+
+Running code in Google Collab:
+1.In https://colab.research.google.com upload “fifa_visualisations.ipynb” and “fifa national team. xlsx” from zip file
+2.Run the two cells. First bump chart will appear using plotly and second lollipop will appear using matplotlib.
